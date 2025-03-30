@@ -27,10 +27,10 @@ experiment:
       epochs: 15
       batch_size: 256
       l_w: 0.01
-      lr: 7.0
-      req_vec: 60
-      beta: 2
+      lr: 9.375680875106323
+      req_vec: 115.0
+      beta: 5
       alpha: 3
-      coef_u: 0.5
-      coef_i: 0.7
+      coef_u: 1.0994664211394257e-09
+      coef_i: 0.018912319945563395
       seed: 123
